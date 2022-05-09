@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\Memento App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\Memento App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\Memento App.csproj",
+        "projectName": "Memento App",
+        "projectPath": "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\Memento App.csproj",
+        "packagesPath": "C:\\Users\\irina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\irina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CircularProgressBar": {
+              "target": "Package",
+              "version": "[2.8.0.16, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.4, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "NotificationsExtensions.Win10": {
+              "target": "Package",
+              "version": "[14332.0.2, )"
+            },
+            "QueryString.NET": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Tulpep.NotificationWindow": {
+              "target": "Package",
+              "version": "[1.1.38, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

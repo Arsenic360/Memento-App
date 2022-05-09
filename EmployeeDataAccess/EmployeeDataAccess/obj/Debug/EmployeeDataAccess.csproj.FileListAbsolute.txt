@@ -1,0 +1,19 @@
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\Memento App.exe
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\Memento App.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\Memento App.exe.config
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\EmployeeDataAccess\EmployeeDataAccess\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb

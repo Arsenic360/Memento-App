@@ -1,0 +1,78 @@
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Memento App.exe.config
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Memento App.exe
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Memento App.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\CircularProgressBar.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\ClosedXML.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\ClosedXML.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\EntityFramework.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\ExcelNumberFormat.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\NotificationsExtensions.Win10.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\NotificationsExtensions.Win10.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\QueryString.NETCore.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\QueryString.NETCore.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\System.IO.Packaging.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\System.ValueTuple.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\WinFormAnimation.dll
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormInterfaceEmployee.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormEvent.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormUpdateEmployees.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormAbout.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormAdmin.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.FormLogin.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.Properties.Resources.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.UserControlBlank.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.UserControlDays.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.csproj.GenerateResource.cache
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.csproj.CopyComplete
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.exe
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.pdb
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.AdminTask.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.EmployeeTask.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento_App.Reminder.resources
+C:\Users\irina\OneDrive\Desktop\Memento App\obj\Debug\Memento App.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Desktop\Memento App\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.EmployeeTask.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.AdminTask.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormInterfaceEmployee.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormEvent.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormUpdateEmployees.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormAbout.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormAdmin.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.FormLogin.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.Properties.Resources.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.UserControlBlank.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.UserControlDays.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento_App.Reminder.resources
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.csproj.GenerateResource.cache
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.exe
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Memento App.exe.config
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Memento App.exe
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Memento App.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\CircularProgressBar.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\ClosedXML.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\ClosedXML.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\EntityFramework.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\ExcelNumberFormat.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\NotificationsExtensions.Win10.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\NotificationsExtensions.Win10.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\QueryString.NETCore.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\QueryString.NETCore.pdb
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\System.IO.Packaging.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\System.ValueTuple.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\bin\Debug\WinFormAnimation.dll
+C:\Users\irina\OneDrive\Desktop\C#\Memento App\Memento App\obj\Debug\Memento App.csproj.CopyComplete

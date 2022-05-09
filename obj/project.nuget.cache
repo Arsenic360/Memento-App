@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Sax0Uoxvsvxmqn67VLmnTjFZ7L3gW7pE5Y1XuZT6NeYdbxcQSkLJ7klE9/C/aIqqw3kYeNf0DO8vK7ATqHJDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irina\\OneDrive\\Desktop\\C#\\Memento App\\Memento App\\Memento App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irina\\.nuget\\packages\\circularprogressbar\\2.8.0.16\\circularprogressbar.2.8.0.16.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\excelnumberformat\\1.0.10\\excelnumberformat.1.0.10.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.2\\microsoft.toolkit.uwp.notifications.7.1.2.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\notificationsextensions.win10\\14332.0.2\\notificationsextensions.win10.14332.0.2.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\querystring.net\\1.0.0\\querystring.net.1.0.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\system.io.packaging\\4.0.0\\system.io.packaging.4.0.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\tulpep.notificationwindow\\1.1.38\\tulpep.notificationwindow.1.1.38.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\winformanimation\\1.6.0.4\\winformanimation.1.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
